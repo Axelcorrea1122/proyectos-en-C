@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1557369376 source:e:\ejercicios guia programacion 1\morge-fusion-apareo\desarrollo.c
+	"header.h"
+
+1557363912 e:\ejercicios guia programacion 1\morge-fusion-apareo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557369302 source:e:\ejercicios guia programacion 1\morge-fusion-apareo\main.c
+	"header.h"
+
+1557369376 source:g:\ejercicios guia programacion 1\morge-fusion-apareo\desarrollo.c
+	"header.h"
+
+1557363912 g:\ejercicios guia programacion 1\morge-fusion-apareo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557410088 source:g:\ejercicios guia programacion 1\morge-fusion-apareo\main.c
+	"header.h"
+
