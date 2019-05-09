@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1556500008 source:e:\ejercicios guia programacion 1\normalizar palabras\main.c
+	"header.h"
+
+1556499394 e:\ejercicios guia programacion 1\normalizar palabras\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1556499918 source:e:\ejercicios guia programacion 1\normalizar palabras\desarrollo 1.c
+	"header.h"
+
