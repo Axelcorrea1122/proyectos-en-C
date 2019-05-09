@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1325389412 source:e:\ejercicios guia programacion 1\atoi\desarrollo funciones atoi.c
+	"header.h"
+
+1325389408 e:\ejercicios guia programacion 1\atoi\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+
+1555621314 source:e:\ejercicios guia programacion 1\atoi\main.c
+	"header.h"
+
