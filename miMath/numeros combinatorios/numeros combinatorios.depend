@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554323786 source:e:\ejercicios guia programacion 1\numeros combinatorios\main.c
+	"header.h"
+
+1554323436 e:\ejercicios guia programacion 1\numeros combinatorios\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554323716 source:e:\ejercicios guia programacion 1\numeros combinatorios\desarrollo.c
+	"header.h"
+

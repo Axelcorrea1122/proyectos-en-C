@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554433542 source:e:\ejercicios guia programacion 1\e^x\main.c
+	"header.h"
+
+1554427750 e:\ejercicios guia programacion 1\e^x\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1554433518 source:e:\ejercicios guia programacion 1\e^x\desarrollo.c
+	"header.h"
+
