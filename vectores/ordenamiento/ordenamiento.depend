@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556200962 source:g:\ejercicios guia programacion 1\ordenamiento\desarrollo de funciones de ordenamiento.c
+	"header.h"
+
+1556200974 g:\ejercicios guia programacion 1\ordenamiento\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1556201210 source:g:\ejercicios guia programacion 1\ordenamiento\main.c
+	"header.h"
+

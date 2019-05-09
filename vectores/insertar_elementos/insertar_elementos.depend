@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1557005826 source:e:\ejercicios guia programacion 1\vectores\insertar_elementos\desarrollo.c
+	"header.h"
+
+1557006402 e:\ejercicios guia programacion 1\vectores\insertar_elementos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1557005686 source:e:\ejercicios guia programacion 1\vectores\insertar_elementos\main.c
+	"header.h"
+
