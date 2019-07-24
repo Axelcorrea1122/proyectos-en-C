@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1559073134 source:e:\ejercicios guia programacion 1\txtfijoabin\desarrollo.c
+	"header.h"
+
+1559071368 e:\ejercicios guia programacion 1\txtfijoabin\header.h
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+	<strings.h>
+	<ctype.h>
+
+1558104170 e:\ejercicios guia programacion 1\txtfijoabin\fechas.h
+	<stdio.h>
+
+1558104270 source:e:\ejercicios guia programacion 1\txtfijoabin\desarrollo de funciones de fechas.c
+	"header.h"
+
+1559070528 source:e:\ejercicios guia programacion 1\txtfijoabin\main.c
+	"header.h"
+

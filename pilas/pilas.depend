@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1558216686 source:e:\ejercicios guia programacion 1\pilas\productos.c
+	"productos.h"
+
+1558216686 e:\ejercicios guia programacion 1\pilas\productos.h
+	"stdio.h"
+
+1558216686 source:e:\ejercicios guia programacion 1\pilas\main.c
+	"main.h"
+
+1558217264 e:\ejercicios guia programacion 1\pilas\main.h
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+	"definiciones.h"
+
+1558217096 e:\ejercicios guia programacion 1\pilas\definiciones.h
+	"productos.h"
+	"pilas.h"
+
+1558217674 e:\ejercicios guia programacion 1\pilas\pilas.h
+	<stdlib.h>
+	"definiciones.h"
+
+1558217886 source:e:\ejercicios guia programacion 1\pilas\pilas.c
+	"pilas.h"
+
