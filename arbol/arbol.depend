@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1560380496 source:e:\ejercicios guia programacion 1\arbol\main.c
+	"header.h"
+	"include/arbol.h"
+
+1560272202 e:\ejercicios guia programacion 1\arbol\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1560275220 source:e:\ejercicios guia programacion 1\arbol\desarrollo.c
+	"header.h"
+	"include/arbol.h"
+
+1560380470 e:\ejercicios guia programacion 1\arbol\include\arbol.h
+	"../header.h"
+	"defs.h"
+
+1560369864 e:\ejercicios guia programacion 1\arbol\include\defs.h
+
+1560380470 source:e:\ejercicios guia programacion 1\arbol\arbol.c
+	"include/arbol.h"
+
+1560349712 source:e:\ejercicios guia programacion 1\arbol\main2.c
+	"header.h"
+	"include/arbol.h"
+
+1560275220 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\arbol\desarrollo.c
+	"header.h"
+	"include/arbol.h"
+
+1560272202 e:\nueva carpeta (2)\ejercicios guia programacion 1\arbol\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1562085608 e:\nueva carpeta (2)\ejercicios guia programacion 1\arbol\include\arbol.h
+	"../header.h"
+	"defs.h"
+	<string.h>
+
+1560985062 e:\nueva carpeta (2)\ejercicios guia programacion 1\arbol\include\defs.h
+
+1562085358 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\arbol\main.c
+	"header.h"
+	"include/arbol.h"
+
+1562018438 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\arbol\arbol.c
+	"include/arbol.h"
+

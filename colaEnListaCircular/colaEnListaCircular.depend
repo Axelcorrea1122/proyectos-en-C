@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1561492428 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\colaenlistacircular\main.c
+	"cola.h"
+
+1561489896 e:\nueva carpeta (2)\ejercicios guia programacion 1\colaenlistacircular\cola.h
+	"plazoFijo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561489746 e:\nueva carpeta (2)\ejercicios guia programacion 1\colaenlistacircular\plazofijo.h
+
+1561492242 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\colaenlistacircular\cola.c
+	"cola.h"
+	"defs.h"
+
+1560985062 e:\nueva carpeta (2)\ejercicios guia programacion 1\colaenlistacircular\defs.h
+

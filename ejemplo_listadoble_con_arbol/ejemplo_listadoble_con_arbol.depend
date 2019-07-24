@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1562603912 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\listadoble.c
+	"listaDoble.h"
+	"Defs.h"
+
+1562198374 e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\main.h
+	<stdio.h>
+	<stdlib.h>
+	"include/listaDoble.h"
+	"include/arbol.h"
+	"include/defs.h"
+
+1562611172 e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	"defs.h"
+	"plazosFijos.h"
+
+1562616362 e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\defs.h
+
+1562621838 e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\arbol.h
+	"plazosFijos.h"
+	"defs.h"
+
+1562622050 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\main.c
+	"main.h"
+	<conio.h>
+	"include/arbol.h"
+
+1562621942 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\arbol.c
+	"../main.h"
+
+1562194234 e:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\plazosfijos.h
+
+1562603912 source:f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\listadoble.c
+	"listaDoble.h"
+	"Defs.h"
+
+1562611172 f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	"defs.h"
+	"plazosFijos.h"
+
+1562616362 f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\defs.h
+
+1562194234 f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\plazosfijos.h
+
+1562684134 source:f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\main.c
+	"main.h"
+	<conio.h>
+	"include/arbol.h"
+
+1562198374 f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\main.h
+	<stdio.h>
+	<stdlib.h>
+	"include/listaDoble.h"
+	"include/arbol.h"
+	"include/defs.h"
+
+1562683450 f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\arbol.h
+	"plazosFijos.h"
+	"defs.h"
+	"strings.h"
+
+1562685216 source:f:\nueva carpeta (2)\ejercicios guia programacion 1\ejemplo_listadoble_con_arbol\include\arbol.c
+	"../main.h"
+

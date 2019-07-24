@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558797548 source:e:\ejercicios guia programacion 1\lista\main.c
+	"lista.h"
+
+1558796540 e:\ejercicios guia programacion 1\lista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558796818 source:e:\ejercicios guia programacion 1\lista\lista.c
+	"lista.h"
+

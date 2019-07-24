@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1558918352 source:e:\ejercicios guia programacion 1\mergeentrelistayarch\lista.c
+	"lista.h"
+
+1558919730 e:\ejercicios guia programacion 1\mergeentrelistayarch\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558919060 e:\ejercicios guia programacion 1\mergeentrelistayarch\header.h
+
+1558919002 source:e:\ejercicios guia programacion 1\mergeentrelistayarch\desarrollo.c
+	"lista.h"
+
+1558919574 source:e:\ejercicios guia programacion 1\mergeentrelistayarch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

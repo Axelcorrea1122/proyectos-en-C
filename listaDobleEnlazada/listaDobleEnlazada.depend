@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1560539882 source:e:\ejercicios guia programacion 1\listadobleenlazada\listadoble.c
+	"listaDoble.h"
+	"Defs.h"
+
+1560539164 e:\ejercicios guia programacion 1\listadobleenlazada\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	"PunterosAFuncion.h"
+
+1560477700 e:\ejercicios guia programacion 1\listadobleenlazada\punterosafuncion.h
+	"listaDoble.h"
+
+1560534138 e:\ejercicios guia programacion 1\listadobleenlazada\defs.h
+	"listaDoble.h"
+
+1560538568 source:e:\ejercicios guia programacion 1\listadobleenlazada\main.c
+	"listaDoble.h"
+
+1562175294 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\listadobleenlazada\main.c
+	"listaDoble.h"
+
+1562175292 e:\nueva carpeta (2)\ejercicios guia programacion 1\listadobleenlazada\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	"PunterosAFuncion.h"
+
+1560477700 e:\nueva carpeta (2)\ejercicios guia programacion 1\listadobleenlazada\punterosafuncion.h
+	"listaDoble.h"
+
+1562603912 source:e:\nueva carpeta (2)\ejercicios guia programacion 1\listadobleenlazada\listadoble.c
+	"listaDoble.h"
+	"Defs.h"
+
+1560534138 e:\nueva carpeta (2)\ejercicios guia programacion 1\listadobleenlazada\defs.h
+	"listaDoble.h"
+

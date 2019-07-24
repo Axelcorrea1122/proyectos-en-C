@@ -1,0 +1,4 @@
+Anana¦50
+Banana¦-40
+Manzana¦-30
+Naranja¦60
